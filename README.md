@@ -37,7 +37,7 @@ This repository is neatly divided into two independent implementations:
 
 | Framework | Live Preview | Source Code |
 | :--- | :--- | :--- |
-| ⚡ **Vue 3** | [🔗 View Vue Live Demo]() | [`/vue`](#) |
-| ️ **React** | [🔗 View React Live Demo]() | [`/react`](#) |
+| ⚡ **Vue 3** | [🔗 View Vue Live Demo](https://temperature-converter-vue-fth.vercel.app) | [`/vue`](#) |
+| ️ **React** | [🔗 View React Live Demo](https://temperature-converter-react-fth.vercel.app) | [`/react`](#) |
 
 ---
